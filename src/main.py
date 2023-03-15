@@ -1,3 +1,3 @@
-print ("hello Linux")
+print ("hello world")
 
 
